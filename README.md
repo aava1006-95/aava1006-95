@@ -1,55 +1,75 @@
-<h1 align="center">Hi there, I'm Ava Kang! 👋</h1>
 
-<p align="center">
-🌱 Incoming Information Systems major at Ohio State University<br/>
-💻 Passionate about tech, data, and bridging business & IT<br/>
-🌏 Experienced teaching English and culture in Taiwan<br/>
-🎻 Violinist • Mentor
-</p>
+# Hi, I'm Ava! 👋
 
----
+### I like building things that make people's lives a little easier.
 
-## 👩‍💻 About Me
+I'm an **Industrial and Systems Engineering student at The Ohio State University**, interested in product management, human-centered technology, and creative problem-solving.
 
-- 🎓 I'm starting my undergraduate journey as an Information Systems major  
-- 🌐 I love learning about tech's role in global communication and innovation  
-- 🧠 Currently learning Python, SQL, and how to build cool projects  
-- 🌟 Volunteered as a teacher in Taiwan, teaching English and digital skills  
-- 🎯 Goal: Combine tech + empathy to solve real-world problems
+I'm naturally curious about how people interact with technology. I enjoy understanding what frustrates them, figuring out why, and building something that makes the experience better.
+
+My favorite projects combine **empathy, design, and engineering** — from simplifying expense tracking for a construction team to exploring how AI can make learning more engaging.
 
 ---
 
-## 💼 Skills & Tools
+### 🌱 What I've Been Building
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-</div>
+**🧾 [Receipt Tracker](https://receipt-tracker-95oc9uhg3rb8ccvfubgm4c.streamlit.app)**  
+A tool I built with Python, Streamlit, and Supabase to help a construction team organize receipts and understand project spending.
 
----
+- Worked with management to understand daily workflow challenges
+- Built employee receipt submission and manager reporting features
+- Helped reduce invoice preparation from a full day to 1–2 hours
 
-## 🧩 What I’m Learning This Summer
+**🌷 [Knowledge Garden — AWS AI Hackathon](https://docs.google.com/presentation/d/1v2RdxmYG3X-8HDOsJLLyKzRlbbSsj4CVDCJLGbJX0iI/edit?usp=sharing)**  
+An AI-powered learning experience designed around a simple question: *What if learning felt more like growing something?*
 
-- 🐍 Python for data & automation  
-- 🧮 SQL for databases  
-- 🛠️ Git & GitHub for version control  
-- 📊 Data visualization tools like Tableau and Power BI  
-- 📚 Online courses & certifications in tech and business
+- Explored ways to make learning more interactive and memorable
+- Designed a journey connecting discovery, review, community, and motivation
+- Applied human-centered thinking to the learning experience
 
----
+**🤖 AI Documentation Factory**  
+An automated documentation workflow using LLMs and verification checks.
 
-## 📬 Let's Connect!
-
-<a href="https://www.linkedin.com/in/ava-kang-168b45339" target="_blank">💼 LinkedIn</a>  
-<a href="mailto:avakang95106@gmail.com">📧 Email Me</a>  
-<a href="https://your-portfolio.notion.site">🧾 Notion Portfolio</a>  
+- Explored how AI can reduce repetitive work
+- Added quality checks to improve output reliability
+- Reduced manual review requirements by 65%
 
 ---
 
-<p align="center">
-  ✨ Thanks for visiting my profile! ✨
-</p>
+### 🛠️ My Toolkit
+
+**Languages:** Python · Java · SQL  
+**Building:** Streamlit · Supabase · Next.js · Git/GitHub  
+**Exploring:** AI/LLMs · Claude API · Figma · Data Analytics
+
+I care more about choosing the right tool for a problem than collecting tools.
+
+---
+
+### ✨ A Little More About Me
+
+Outside of tech, I'm a violinist, mentor, and someone who loves learning from different cultures.
+
+I've taught and volunteered in Taiwan, where I learned how important patience, communication, and understanding different perspectives can be.
+
+I think the same applies to building great products.
+
+I'm happiest when I'm learning something new, making something useful, or helping someone understand something that once felt complicated.
+
+---
+
+### 💭 What I'm Curious About
+
+- How can AI make everyday work feel less repetitive?
+- What makes a product genuinely intuitive?
+- How do we design technology that helps people feel more capable, not overwhelmed?
+
+I'm always learning, experimenting, and looking for interesting problems to solve.
+
+---
+
+### ☕ Let's Connect!
+
+[LinkedIn](https://www.linkedin.com/in/ava-kang-168b45339) · [Email](mailto:avakang95106@gmail.com)
+
+*Thanks for stopping by! 🌱*
